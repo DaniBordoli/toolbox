@@ -44,5 +44,8 @@ React Bootstrap: ^2.8.0
 Redux: ^4.2.1
 Axios: ^1.5.0
 
+# Contacto
+
+d.c.bordoli@gmail.com
 
 
