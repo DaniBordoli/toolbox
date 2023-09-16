@@ -26,6 +26,9 @@ Standard: ^17.1.0
 El servidor estará disponible en http://localhost:3000
 
 #######################################################################
+#ENDPOINTS#
+1) http://localhost:3000/api/files/list
+2) http://localhost:3000/api/files/data o http://localhost:3000/api/files/data?fileName=<Nombre del archivo>
 #######################################################################
 
 # Frontend
@@ -41,9 +44,5 @@ React Bootstrap: ^2.8.0
 Redux: ^4.2.1
 Axios: ^1.5.0
 
-#######################################################################
-#######################################################################
 
-#ENDPOINTS#
-1) http://localhost:3000/api/files/list
-2) http://localhost:3000/api/files/data o http://localhost:3000/api/files/data?fileName=<Nombre del archivo>
+
